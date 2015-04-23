@@ -1,7 +1,7 @@
 title: Cheng Du Linux User Group
 date: 2015-4-24 10:20:00
 tags:
--hello_world
+-helloworld
 ---
 #新版测试
 the blog of Cheng Du linux user group
