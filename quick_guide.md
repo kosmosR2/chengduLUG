@@ -5,15 +5,13 @@ authorURL : http://github.com/kosmosR2/
 tags :
 - Hexo
 ---
-使用说明
-========
 #Hexo介绍
 hexo是一款基于node.js的博客框架，具有一定的可扩展性，支持md格式的博客上传。可以随意切换主题风格。其最大的特点就在于假设方便，比较适合我们这种小博客。
 #上传文章
 hexo支持动态检查博客文件变化。所以只要在github上开个源，push或者commit开个hook让server把文章拖下来就行了。
-##fork 文章源
+###fork 文章源
 首先，fork[当前文章源](https://github.com/kosmosR2/chengduLUG)，当然这个源以后可以改。然后把它clone到本地，就可以开始你的修改了。
-##发起pull requests
+###发起pull requests
 完成修改之后先push到自己源上面，然后发起pull requests，待管理员审核通过后就能直接在页面上看到效果了。当然你push到自己的源上只有已经可以在github的page上做一定的预览了。
 #格式说明
 上传的博客应该遵循固定的格式：
