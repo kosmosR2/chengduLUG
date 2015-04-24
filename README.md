@@ -1,7 +1,7 @@
 title: Cheng Du Linux User Group
 date: 2015-4-24 10:20:00
 author : kosmos
-authorURL : https://github.com/kosmosR2/chengduLUG
+authorURL : https://github.com/kosmosR2/
 tags:
 - helloworld
 ---
