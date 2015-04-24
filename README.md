@@ -1,5 +1,6 @@
 title: Cheng Du Linux User Group
 date: 2015-4-24 10:20:00
+author : kosmos
 tags:
 - helloworld
 ---
